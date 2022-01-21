@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73fcf97f73af2ab1c87f885b9053b329",
+    "revision": "5dd2d3c8d2b08a876f3416f3853d2688",
     "url": "/index.html"
   },
   {
-    "revision": "f1467120c1949125ccf7",
+    "revision": "405d77bed7687bfdaf83",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "08124f85392cc521569f",
+    "revision": "4f86de8502822817a581",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "7e2f66df7b18613a34fc",
+    "revision": "ac6618d6dc64271d1402",
     "url": "/static/css/main.66262938.chunk.css"
   },
   {
-    "revision": "156ba674343915df4a6c",
-    "url": "/static/js/2.7ff201f8.chunk.js"
+    "revision": "67606e66e8c67b00e34a",
+    "url": "/static/js/2.c523b2f9.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.7ff201f8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c523b2f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1467120c1949125ccf7",
-    "url": "/static/js/3.eb3ba21e.chunk.js"
+    "revision": "405d77bed7687bfdaf83",
+    "url": "/static/js/3.cf9c83e3.chunk.js"
   },
   {
-    "revision": "08124f85392cc521569f",
-    "url": "/static/js/4.221f4606.chunk.js"
+    "revision": "4f86de8502822817a581",
+    "url": "/static/js/4.651aed64.chunk.js"
   },
   {
-    "revision": "7e2f66df7b18613a34fc",
-    "url": "/static/js/main.fa0c6655.chunk.js"
+    "revision": "ac6618d6dc64271d1402",
+    "url": "/static/js/main.c6eb4dbf.chunk.js"
   },
   {
-    "revision": "12c0d7bd038831784a29",
-    "url": "/static/js/runtime-main.5c1065cc.js"
+    "revision": "a198b8b1b71994b561c0",
+    "url": "/static/js/runtime-main.024ed7c7.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
     "url": "/static/media/facebookLogo.8ddf76a1.png"
-  },
-  {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
     "revision": "35ef5e915631be2c31ccdff55b53db29",
