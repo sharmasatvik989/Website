@@ -118,7 +118,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Texas at Arlington",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/uta.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "January 2021- Present",
 //       desc: "Participated in the research of XXX and published 3 papers.",
