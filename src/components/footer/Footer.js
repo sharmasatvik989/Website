@@ -13,7 +13,6 @@ export default function Footer() {
           {emoji("Developed by Satvik Sharma")}
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          Theme by{"By Satvik Sharma with special contribtution from DeveloperFolio"}
           <a href="https://github.com/sharmasatvik989">
             developerFolio
           </a>
