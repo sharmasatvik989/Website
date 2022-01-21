@@ -166,7 +166,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "National Informatics Center",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/nic.png"),
       date: "May 2019 – August 2019",
       desc: "Tasked with cloud technologies and as a software engineer intern tasked with deploying and automating the cloud infrastructure for AWS using Jenkins and Kubernetes for the national cloud used by public schools and government bodies.",
 //       descBullets: [
@@ -176,7 +176,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "Resbird Technologies",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/resbird.png"),
       date: "May 2018 – July 2018",
       desc: "Assisting with software development using python in backend and increasing the response performance by 38% for the web application in flight booking deployed using Azure and built on Node js.."
     }
