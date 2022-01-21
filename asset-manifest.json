@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.66262938.chunk.css",
-    "main.js": "/static/js/main.ba14886d.chunk.js",
-    "main.js.map": "/static/js/main.ba14886d.chunk.js.map",
+    "main.js": "/static/js/main.b81ea5d6.chunk.js",
+    "main.js.map": "/static/js/main.b81ea5d6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.024ed7c7.js",
     "runtime-main.js.map": "/static/js/runtime-main.024ed7c7.js.map",
     "static/js/2.c523b2f9.chunk.js": "/static/js/2.c523b2f9.chunk.js",
@@ -14,13 +14,14 @@
     "static/js/4.651aed64.chunk.js": "/static/js/4.651aed64.chunk.js",
     "static/js/4.651aed64.chunk.js.map": "/static/js/4.651aed64.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e1cf07f777d9094e4bdde3c52879ef0b.js": "/precache-manifest.e1cf07f777d9094e4bdde3c52879ef0b.js",
+    "precache-manifest.8601e41faec3e99b48ba8f3d283a8c70.js": "/precache-manifest.8601e41faec3e99b48ba8f3d283a8c70.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.66262938.chunk.css.map": "/static/css/main.66262938.chunk.css.map",
     "static/js/2.c523b2f9.chunk.js.LICENSE.txt": "/static/js/2.c523b2f9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/amity.png": "/static/media/amity.1f3b6258.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
@@ -31,7 +32,6 @@
     "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg",
     "static/media/uta.png": "/static/media/uta.49ba6a03.png"
   },
@@ -39,6 +39,6 @@
     "static/js/runtime-main.024ed7c7.js",
     "static/js/2.c523b2f9.chunk.js",
     "static/css/main.66262938.chunk.css",
-    "static/js/main.ba14886d.chunk.js"
+    "static/js/main.b81ea5d6.chunk.js"
   ]
 }

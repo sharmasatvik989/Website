@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36a1f6f13f4e440af96c967e18bb0f0d",
+    "revision": "802ef2163b6a795c1f8587a149663989",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "aae565138d748d690eda",
+    "revision": "8e5488cd0af2ded25a32",
     "url": "/static/css/main.66262938.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.651aed64.chunk.js"
   },
   {
-    "revision": "aae565138d748d690eda",
-    "url": "/static/js/main.ba14886d.chunk.js"
+    "revision": "8e5488cd0af2ded25a32",
+    "url": "/static/js/main.b81ea5d6.chunk.js"
   },
   {
     "revision": "a198b8b1b71994b561c0",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "1f3b62580959c3b90810852fc4f8d20d",
+    "url": "/static/media/amity.1f3b6258.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -86,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
