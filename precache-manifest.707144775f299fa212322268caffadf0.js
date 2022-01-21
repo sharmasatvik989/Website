@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "802ef2163b6a795c1f8587a149663989",
+    "revision": "332812adf3555706e8951e88315f90f4",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "8e5488cd0af2ded25a32",
+    "revision": "63ccf383cd819bcf2b5c",
     "url": "/static/css/main.66262938.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.651aed64.chunk.js"
   },
   {
-    "revision": "8e5488cd0af2ded25a32",
-    "url": "/static/js/main.b81ea5d6.chunk.js"
+    "revision": "63ccf383cd819bcf2b5c",
+    "url": "/static/js/main.f18664b3.chunk.js"
   },
   {
     "revision": "a198b8b1b71994b561c0",
@@ -64,10 +64,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
@@ -76,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
   {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/static/media/pwaLogo.ee62cb58.webp"
+    "revision": "db8b72dd83357a0036f505f3c8fb6fae",
+    "url": "/static/media/nic.db8b72dd.png"
   },
   {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
+    "revision": "ee62cb58630f29a6e6201b49d4c03728",
+    "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
