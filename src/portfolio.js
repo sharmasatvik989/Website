@@ -63,10 +63,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    {
-      skillName: "Kubernetes",
-      fontAwesomeClassname: "fab fa-kubernetes"
-    },
+//     {
+//       skillName: "Kubernetes",
+//       fontAwesomeClassname: "fab fa-kubernetes"
+//     },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -79,14 +79,14 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
-      skillName: "Azure",
-      fontAwesomeClassname: "fab fa-Azure"
-    },
-    {
-      skillName: "C/C++",
-      fontAwesomeClassname: "fab fa-C/C++"
-    },
+//     {
+//       skillName: "Azure",
+//       fontAwesomeClassname: "fab fa-Azure"
+//     },
+//     {
+//       skillName: "C/C++",
+//       fontAwesomeClassname: "fab fa-C/C++"
+//     },
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
@@ -95,10 +95,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
     },
-    {
-      skillName: "Terraform",
-      fontAwesomeClassname: "fas fa-Terraform"
-    },
+//     {
+//       skillName: "Terraform",
+//       fontAwesomeClassname: "fas fa-Terraform"
+//     },
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
