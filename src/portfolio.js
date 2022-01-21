@@ -213,8 +213,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "Own Projects",
+  title: "Projects",
+//   subtitle: "Own Projects",
   projects: [
     {
       image: require("./assets/images/chart.png"),
