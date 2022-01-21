@@ -128,7 +128,7 @@ const educationInfo = {
     },
     {
       schoolName: "Amity University",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/amity.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2016 - August 2020",
 //       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
