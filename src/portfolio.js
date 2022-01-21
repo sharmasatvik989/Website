@@ -218,8 +218,8 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Antiviruses",
+      projectDesc: "Metasploit based project of generating 2500 .sh pay loads to check the efficiency of 3 Antivirus McAfee, Windows Defender and Calm Av. Automated API to run the virus check and plot the graph of reference between the viruses using Matplotlib.",
       footerLink: [
         {
           name: "Visit Website",
