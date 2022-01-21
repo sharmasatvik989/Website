@@ -208,24 +208,24 @@ const bigProjects = {
       image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "Graphometer",
       projectDesc: "Developed full-stack web application using Flask serving REST API to capture the data for 5000+ earthquakes and project a visually depiction of the earthquake data using various Chart.Js",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
+//       footerLink: [
+//         {
+//           name: "Visit Website",
+//           url: "http://saayahealth.com/"
+//         }
+//         //  you can add extra buttons here.
+//       ]
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
       projectName: "Antiviruses",
       projectDesc: "Metasploit based project of generating 2500 .sh pay loads to check the efficiency of 3 Antivirus McAfee, Windows Defender and Calm Av. Automated API to run the virus check and plot the graph of reference between the viruses using Matplotlib.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
-      ]
+//       footerLink: [
+//         {
+//           name: "Visit Website",
+//           url: "http://nextu.se/"
+//         }
+//       ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -310,7 +310,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -329,7 +329,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -342,7 +342,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
