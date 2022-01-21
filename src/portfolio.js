@@ -168,10 +168,10 @@ const workExperiences = {
       company: "National Informatics Center",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "May 2019 – August 2019",
-      desc: "Tasked with cloud technologies",
-      descBullets: [
-        "As a software engineer intern tasked with deploying and automating the cloud infrastructure for AWS using Jenkins and Kubernetes for the national cloud used by public schools and government bodies."
-      ]
+      desc: "Tasked with cloud technologies and as a software engineer intern tasked with deploying and automating the cloud infrastructure for AWS using Jenkins and Kubernetes for the national cloud used by public schools and government bodies.",
+//       descBullets: [
+//         "As a software engineer intern tasked with deploying and automating the cloud infrastructure for AWS using Jenkins and Kubernetes for the national cloud used by public schools and government bodies."
+//       ]
     },
     {
       role: "Software Engineer Intern",
@@ -195,19 +195,19 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "Own Projects",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Graphometer",
+      projectDesc: "Developed full-stack web application using Flask serving REST API to capture the data for 5000+ earthquakes and project a visually depiction of the earthquake data using various Chart.Js",
       footerLink: [
         {
           name: "Visit Website",
