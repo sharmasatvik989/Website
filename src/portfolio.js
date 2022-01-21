@@ -147,11 +147,23 @@ const techStack = {
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Kubernetes",
       progressPercentage: "70%"
     },
     {
-      Stack: "Programming",
+      Stack: "AWS/Devops",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "Data structures",
+      progressPercentage: "60%"
+    },
+    {
+      Stack: "Terraform",
+      progressPercentage: "60%"
+    },
+    {
+      Stack: "C/C++",
       progressPercentage: "60%"
     }
   ],
