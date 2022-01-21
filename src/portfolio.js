@@ -14,10 +14,10 @@ const greeting = {
   username: "Satvik Sharma",
   title: "Hola Soy, I am Satvik Sharma",
   subTitle: emoji(
-    "A passionate Cloid Devops Engineer experience of working on cloud technologies such as AWS, Terraform, Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
+    "A passionate Cloud Devops Engineer experience of working on cloud technologies such as AWS, Terraform, Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
   ),
   resumeLink:
-    "hhttps://drive.google.com/file/d/1qoL3gC_hESy_Cq7r0pJXAhenbv7oVMx5/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1W3OwJPDgNXmVC4Zt_gYUe9ihusDUxw5C/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -26,7 +26,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/sharmasatvik989",
   linkedin: "https://www.linkedin.com/in/sharmasatvik/",
-  gmail: "sharma457989@gmail.com",
+  gmail: "satviksharma457989@gmail.com",
 //   gitlab: "https://gitlab.com/saadpasta",
 //   facebook: "https://www.facebook.com/saad.pasta7",
 //   medium: "https://medium.com/@saadpasta",
@@ -39,15 +39,15 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "A little about myself",
+  subTitle: "Working towards masters in computer science focussing on Cloud Devops technologies.",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Deploying and automating the cloud infrastructure for AWS using Jenkins and Kubernetes"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Software development using python in backend and increasing the response performance for the web applications"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Developing full-stack web application using Flask serving REST API "
     )
   ],
 
@@ -64,28 +64,28 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "Kubernetes",
+      fontAwesomeClassname: "fab fa-kubernetes"
     },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "Jenkins",
+      fontAwesomeClassname: "fab fa-Jenkins"
     },
     {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "Azure",
+      fontAwesomeClassname: "fab fa-Azure"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "C/C++",
+      fontAwesomeClassname: "fab fa-C/C++"
     },
     {
       skillName: "sql-database",
@@ -96,8 +96,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
+      skillName: "Terraform",
+      fontAwesomeClassname: "fas fa-Terraform"
     },
     {
       skillName: "python",
@@ -117,10 +117,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "University of Texas at Arlington",
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
+      duration: "January 2021- Present",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -128,10 +128,10 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Amity University",
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
+      duration: "September 2016 - August 2020",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
@@ -165,14 +165,13 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Software Engineer Intern",
+      company: "National Informatics Center",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "May 2019 – August 2019",
+      desc: "Tasked with cloud technologies",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "As a software engineer intern tasked with deploying and automating the cloud infrastructure for AWS using Jenkins and Kubernetes for the national cloud used by public schools and government bodies."
       ]
     },
     {
@@ -181,14 +180,14 @@ const workExperiences = {
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "May 2017 – May 2018",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
+//     {
+//       role: "Software Engineer Intern",
+//       company: "Airbnb",
+//       companylogo: require("./assets/images/airbnbLogo.png"),
+//       date: "Jan 2015 – Sep 2015",
+//       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+//     }
   ]
 };
 
