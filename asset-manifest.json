@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.66262938.chunk.css",
-    "main.js": "/static/js/main.0ef1f184.chunk.js",
-    "main.js.map": "/static/js/main.0ef1f184.chunk.js.map",
+    "main.js": "/static/js/main.ba14886d.chunk.js",
+    "main.js.map": "/static/js/main.ba14886d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.024ed7c7.js",
     "runtime-main.js.map": "/static/js/runtime-main.024ed7c7.js.map",
     "static/js/2.c523b2f9.chunk.js": "/static/js/2.c523b2f9.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.651aed64.chunk.js": "/static/js/4.651aed64.chunk.js",
     "static/js/4.651aed64.chunk.js.map": "/static/js/4.651aed64.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8b1a0b540cb7589078ac899739965718.js": "/precache-manifest.8b1a0b540cb7589078ac899739965718.js",
+    "precache-manifest.e1cf07f777d9094e4bdde3c52879ef0b.js": "/precache-manifest.e1cf07f777d9094e4bdde3c52879ef0b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
@@ -25,7 +25,6 @@
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/facebookLogo.png": "/static/media/facebookLogo.8ddf76a1.png",
-    "static/media/harvardLogo.png": "/static/media/harvardLogo.49ba6a03.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.ee62cb58.webp",
@@ -33,12 +32,13 @@
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png",
-    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg",
+    "static/media/uta.png": "/static/media/uta.49ba6a03.png"
   },
   "entrypoints": [
     "static/js/runtime-main.024ed7c7.js",
     "static/js/2.c523b2f9.chunk.js",
     "static/css/main.66262938.chunk.css",
-    "static/js/main.0ef1f184.chunk.js"
+    "static/js/main.ba14886d.chunk.js"
   ]
 }
