@@ -275,7 +275,7 @@ const achievementSection = {
 
     {
       title: "Best Athelete of the year 2018-2019 ",
-      subtitle: "Awarded as the best performer in soccer for two consecutive years 2018,2019 by securing First postion among 30 participating universities.",
+      subtitle: "Awarded as the best performer in soccer for two consecutive years 2018,2019.",
       image: require("./assets/images/pwaLogo.webp"),
 //       footerLink: [
 //         {name: "Certification", url: ""},
