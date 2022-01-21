@@ -73,7 +73,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Jenkins",
-      fontAwesomeClassname: "fab fa-Jenkins"
+      fontAwesomeClassname: "fab fa-jenkins"
     },
     {
       skillName: "nodejs",
