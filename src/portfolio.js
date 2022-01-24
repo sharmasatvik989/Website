@@ -190,7 +190,7 @@ const workExperiences = {
       company: "Resbird Technologies",
       companylogo: require("./assets/images/resbird.png"),
       date: "May 2018 – July 2018",
-      desc: "Assisting with software development using python in backend and increasing the response performance by 38% for the web application in flight booking deployed using Azure and built on Node js.."
+      desc: "Assisting with software development using python in backend and increasing the response performance by 38% for the web application in flight booking deployed using Azure and built on Node js."
     }
 //     {
 //       role: "Software Engineer Intern",
