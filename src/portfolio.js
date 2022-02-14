@@ -12,7 +12,7 @@ const illustration = {
 
 const greeting = {
   username: "Satvik Sharma",
-  title: "Hola Soy, I am Satvik Sharma",
+  title: "Satvik Sharma",
   subTitle: emoji(
     "A passionate Cloud Devops Engineer experience of working on cloud technologies such as AWS, Terraform, Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
   ),
