@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Cloud Devops Engineer experience of working on cloud technologies such as AWS, Terraform, Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/16Tins4TEL60OHSKe1Bmmf27mgt7h96te/view?usp=sharing",// Set to empty to hide the button
+    "https://drive.google.com/file/d/1_1eV5yaj4cq0oWWNJ-mUbsL8DBwzbOdD/view?usp=sharing",// Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
