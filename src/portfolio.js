@@ -183,7 +183,7 @@ const workExperiences = {
       role: "Software Engineer Intern",
       company: "Walmart Global Tech",
       companylogo: require("./assets/images/resbird.png"),
-      date: "May 2022 – July 2022",
+      date: "May 2022 – August 2022",
       desc: "RESTful Services API Development: Back-end API Development of micro services using Java and spring framework for the Sam’s Club Associates to incorporate Exclusion Management feature. Back feeding to Kafka and developing in an agile environment for better efficiency. Cloud Deployment: Deploying the back-end API interface to Walmart Cloud Native Platform orchestrated for Walmart Global Tech and AWS using Kubernetes and Docker. Having database connectivity from MySQL and SQL Server."
     },
     {
