@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Cloud Devops Engineer experience of working on cloud technologies such as AWS, Terraform, Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1CpWvq6SOZT2nfgbpDIDXcE-olHENM24B/view?usp=sharing",// Set to empty to hide the button
+    "https://drive.google.com/file/d/1W-4L_eEfM8QTCDa34C5vhrugHr8ogOUV/view?usp=sharing",// Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -165,6 +165,10 @@ const techStack = {
     {
       Stack: "C/C++",
       progressPercentage: "60%"
+    },
+    {
+      Stack: "Spring",
+      progressPercentage: "80%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -177,28 +181,19 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer Intern",
+      company: "Walmart Global Tech",
+      companylogo: require("./assets/images/resbird.png"),
+      date: "May 2022 – July 2022",
+      desc: "RESTful Services API Development: Back-end API Development of micro services using Java and spring framework for the Sam’s Club Associates to incorporate Exclusion Management feature. Back feeding to Kafka and developing in an agile environment for better efficiency. Cloud Deployment: Deploying the back-end API interface to Walmart Cloud Native Platform orchestrated for Walmart Global Tech and AWS using Kubernetes and Docker. Having database connectivity from MySQL and SQL Server."
+    },
+    {
+      role: "Software Engineer Intern",
       company: "National Informatics Center",
       companylogo: require("./assets/images/nic.png"),
       date: "May 2019 – August 2019",
       desc: "Tasked with cloud technologies and as a software engineer intern tasked with deploying and automating the cloud infrastructure for AWS using Jenkins and Kubernetes for the national cloud used by public schools and government bodies.",
-//       descBullets: [
-//         "As a software engineer intern tasked with deploying and automating the cloud infrastructure for AWS using Jenkins and Kubernetes for the national cloud used by public schools and government bodies."
-//       ]
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Resbird Technologies",
-      companylogo: require("./assets/images/resbird.png"),
-      date: "May 2018 – July 2018",
-      desc: "Assisting with software development using python in backend and increasing the response performance by 38% for the web application in flight booking deployed using Azure and built on Node js."
+
     }
-//     {
-//       role: "Software Engineer Intern",
-//       company: "Airbnb",
-//       companylogo: require("./assets/images/airbnbLogo.png"),
-//       date: "Jan 2015 – Sep 2015",
-//       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-//     }
   ]
 };
 
@@ -257,45 +252,15 @@ const achievementSection = {
       subtitle:
         "First Indian to be appointed as CFO for the Cyber Security Club at University of Texas at Arlington",
       image: require("./assets/images/codeInLogo.webp"),
-//       footerLink: [
-//         {
-//           name: "Certification",
-//           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-//         },
-//         {
-//           name: "Award Letter",
-//           url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-//         },
-//         {
-//           name: "Google Code-in Blog",
-//           url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-//         }
-//       ]
+
     },
-//     {
-//       title: "Google Assistant Action",
-//       subtitle:
-//         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-//       image: require("./assets/images/googleAssistantLogo.webp"),
-//       footerLink: [
-//         {
-//           name: "View Google Assistant Action",
-//           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-//         }
-//       ]
-//     },
+
 
     {
       title: "Best Athelete of the year 2018-2019 ",
       subtitle: "Awarded as the best performer in soccer for two consecutive years 2018,2019.",
       image: require("./assets/images/pwaLogo.webp"),
-//       footerLink: [
-//         {name: "Certification", url: ""},
-//         {
-//           name: "Final Project",
-//           url: "https://pakistan-olx-1.firebaseapp.com/"
-//         }
-//       ]
+
     }
   ],
   display: false // Set false to hide this section, defaults to true
