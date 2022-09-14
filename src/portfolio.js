@@ -14,7 +14,7 @@ const greeting = {
   username: "Satvik Sharma",
   title: "Satvik Sharma",
   subTitle: emoji(
-    "A passionate Cloud Devops Engineer experience of working on cloud technologies such as AWS, Terraform, Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
+    " Software Engineer with experience of working on back-end using Java and spring for API deplpoyment to cloud technologies such as Azure, AWS, Terraform, Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1W-4L_eEfM8QTCDa34C5vhrugHr8ogOUV/view?usp=sharing",// Set to empty to hide the button
@@ -27,12 +27,6 @@ const socialMediaLinks = {
   github: "https://github.com/sharmasatvik989",
   linkedin: "https://www.linkedin.com/in/sharmasatvik/",
   gmail: "satviksharma457989@gmail.com",
-//   gitlab: "https://gitlab.com/saadpasta",
-//   facebook: "https://www.facebook.com/saad.pasta7",
-//   medium: "https://medium.com/@saadpasta",
-//   stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
-  // Instagram, Twitter and Kaggle are also supported in the links!
-  // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
 
@@ -43,17 +37,12 @@ const skillsSection = {
   subTitle: "Working towards masters in computer science focussing on Cloud Devops technologies.",
   skills: [
     emoji(
-      "⚡ Deploying and automating the cloud infrastructure for AWS using Jenkins and Kubernetes"
+      "⚡ Deploying and automating the cloud infrastructure on AWS and Azure using Jenkins and Kubernetes."
     ),
-    emoji("⚡ Software development using python in backend and increasing the response performance for the web applications"),
+    emoji("⚡ Software development using python and Java in backend and increasing the response performance for the web applications."),
     emoji(
-      "⚡ Developing full-stack web application using Flask serving REST API "
-    )
+      "⚡ Developing full-stack web application using Java, spring, react and MySQL.")
   ],
-
-  /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
-
   softwareSkills: [
     {
       skillName: "html-5",
@@ -63,10 +52,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-//     {
-//       skillName: "Kubernetes",
-//       fontAwesomeClassname: "fab fa-kubernetes"
-//     },
+
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -79,14 +65,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-//     {
-//       skillName: "Azure",
-//       fontAwesomeClassname: "fab fa-Azure"
-//     },
-//     {
-//       skillName: "C/C++",
-//       fontAwesomeClassname: "fab fa-C/C++"
-//     },
+
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
@@ -95,10 +74,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
     },
-//     {
-//       skillName: "Terraform",
-//       fontAwesomeClassname: "fas fa-Terraform"
-//     },
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
@@ -121,7 +96,6 @@ const educationInfo = {
       logo: require("./assets/images/uta.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "January 2021- Present",
-//       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
         "Graduate Courses - Cloud Computing, Secure Progrmming, Advanced database and Software engineering."
       ]
@@ -131,7 +105,6 @@ const educationInfo = {
       logo: require("./assets/images/amity.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2016 - August 2020",
-//       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Undergraduate Courses - Dynamic routing and Troubleshooting, Software Engineering, Object Oriented Programming and Data analytic using Python"]
     }
   ]
@@ -151,12 +124,12 @@ const techStack = {
       progressPercentage: "70%"
     },
     {
-      Stack: "AWS/Devops",
+      Stack: "Azure",
       progressPercentage: "70%"
     },
     {
-      Stack: "Data structures",
-      progressPercentage: "60%"
+      Stack: "Java",
+      progressPercentage: "70%"
     },
     {
       Stack: "Terraform",
@@ -184,7 +157,7 @@ const workExperiences = {
       company: "Walmart Global Tech",
       companylogo: require("./assets/images/walmart.png"),
       date: "May 2022 – August 2022",
-      desc: "RESTful Services API Development: Back-end API Development of micro services using Java and spring framework for the Sam’s Club Associates to incorporate Exclusion Management feature. Back feeding to Kafka and developing in an agile environment for better efficiency. Cloud Deployment: Deploying the back-end API interface to Walmart Cloud Native Platform orchestrated for Walmart Global Tech and AWS using Kubernetes and Docker. Having database connectivity from MySQL and SQL Server."
+      desc: "RESTful Services API Development: Back-end API Development of micro services using Java and spring framework for the Sam’s Club Associates to incorporate Exclusion Management feature. Cloud Deployment: Deploying the back-end API interface to Walmart Cloud Native Platform orchestrated for Walmart Global Tech and Azure using Kubernetes and Docker. Having database connectivity from MySQL and SQL Server."
     },
     {
       role: "Software Engineer Intern",
@@ -197,8 +170,6 @@ const workExperiences = {
   ]
 };
 
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
@@ -215,24 +186,13 @@ const bigProjects = {
       image: require("./assets/images/chart.png"),
       projectName: "Graphometer",
       projectDesc: "Developed full-stack web application using Flask serving REST API to capture the data for 5000+ earthquakes and project a visually depiction of the earthquake data using various Chart.Js",
-//       footerLink: [
-//         {
-//           name: "Visit Website",
-//           url: "http://saayahealth.com/"
-//         }
-//         //  you can add extra buttons here.
-//       ]
+
     },
     {
       image: require("./assets/images/meta.png"),
       projectName: "Antiviruses",
       projectDesc: "Metasploit based project of generating 2500 .sh pay loads to check the efficiency of 3 Antivirus McAfee, Windows Defender and Calm Av. Automated API to run the virus check and plot the graph of reference between the viruses using Matplotlib.",
-//       footerLink: [
-//         {
-//           name: "Visit Website",
-//           url: "http://nextu.se/"
-//         }
-//       ]
+
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -254,7 +214,6 @@ const achievementSection = {
       image: require("./assets/images/codeInLogo.webp"),
 
     },
-
 
     {
       title: "Best Athelete of the year 2018-2019 ",
