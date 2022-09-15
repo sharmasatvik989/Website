@@ -14,7 +14,7 @@ const greeting = {
   username: "Satvik Sharma",
   title: "Satvik Sharma",
   subTitle: emoji(
-    " Software Engineer with experience of working on back-end using Java and spring for API deplpoyment to cloud technologies such as Azure, AWS, Terraform, Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
+    " Software Engineer with experience of working on back-end using Java and spring for API deployment to cloud technologies such as Azure, AWS using Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1W-4L_eEfM8QTCDa34C5vhrugHr8ogOUV/view?usp=sharing",// Set to empty to hide the button
