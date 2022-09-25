@@ -98,7 +98,7 @@ const educationInfo = {
       duration: "January 2021- Present",
       descBullets: [
         "Graduate Courses - Cloud Computing, Secure Progrmming, Advanced database and Software engineering."
-      ]
+      ] 
     },
     {
       schoolName: "Amity University",
