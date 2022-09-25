@@ -17,7 +17,7 @@ const greeting = {
     " Software Engineer with experience of working on back-end using Java and spring for API deployment to cloud technologies such as Azure, AWS using Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1W-4L_eEfM8QTCDa34C5vhrugHr8ogOUV/view?usp=sharing",// Set to empty to hide the button
+    "https://drive.google.com/file/d/1SKlEyaJV585_66UJuNsxQ9azyGt5RXZv/view?usp=sharing",// Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
