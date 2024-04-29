@@ -14,10 +14,10 @@ const greeting = {
   username: "Satvik Sharma",
   title: "Satvik Sharma",
   subTitle: emoji(
-    " Software Engineer with experience of working on back-end using Java and spring for API deployment to cloud technologies such as Azure, AWS using Docker and Kubernetes. Familiarity with devops principles of deploying and automation."
+    "Software Engineer with experience of working on back-end using Java and Spring for Rest API Development with deployment to cloud technologies such as Azure, AWS with strong proficiency in software development, database management, and collaborative problem-solving in Agile environments."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1SKlEyaJV585_66UJuNsxQ9azyGt5RXZv/view?usp=sharing",// Set to empty to hide the button
+    "https://drive.google.com/file/d/1y1wxQh6Lz-lt4qdecVJCQJvWh1-Av9oo/view?usp=sharing",// Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -34,14 +34,13 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "A little about myself",
-  subTitle: "Working towards masters in computer science focussing on Cloud Devops technologies.",
+  subTitle: "Working as a Software Engineer 3 for Sam's Club.",
   skills: [
     emoji(
-      "⚡ Deploying and automating the cloud infrastructure on AWS and Azure using Jenkins and Kubernetes."
+      "⚡ Pioneered backend architecture improvements for Sam's Club for higher savings."
     ),
-    emoji("⚡ Software development using python and Java in backend and increasing the response performance for the web applications."),
-    emoji(
-      "⚡ Developing full-stack web application using Java, spring, react and MySQL.")
+    emoji("⚡ Software development using python and Java to increase the robustness and efficiency."),
+
   ],
   softwareSkills: [
     {
@@ -153,18 +152,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer Intern",
+      role: "Software Engineer 3",
       company: "Walmart Global Tech",
       companylogo: require("./assets/images/walmart.png"),
-      date: "May 2022 – August 2022",
-      desc: "RESTful Services API Development: Back-end API Development of micro services using Java and spring framework for the Sam’s Club Associates to incorporate Exclusion Management feature. Cloud Deployment: Deploying the back-end API interface to Walmart Cloud Native Platform orchestrated for Walmart Global Tech and Azure using Kubernetes and Docker. Having database connectivity from MySQL and SQL Server."
+      date: "February 2023-Present",
+      desc: "Developed back-end microservices using Java and Spring for Sam’s Club, integrating computer vision and machine learning models recommendation to identify and recommend shrink items, contributing to an estimated shrink reduction of 200 million. Engineered robust, high-performing architectures that substantially increased operational efficiency and user satisfaction with collaborative teamwork"
     },
     {
       role: "Software Engineer Intern",
       company: "National Informatics Center",
       companylogo: require("./assets/images/nic.png"),
       date: "May 2019 – August 2019",
-      desc: "Tasked with cloud technologies and as a software engineer intern tasked with deploying and automating the cloud infrastructure for AWS using Jenkins and Kubernetes for the national cloud used by public schools and government bodies.",
+      desc: "Integrated AWS cloud infrastructure using Jenkins and Kubernetes, enhancing development efficiency by 26% for a national cloud serving public schools and government entities in India.",
 
     }
   ]
@@ -185,13 +184,13 @@ const bigProjects = {
     {
       image: require("./assets/images/chart.png"),
       projectName: "Graphometer",
-      projectDesc: "Developed full-stack web application using Flask serving REST API to capture the data for 5000+ earthquakes and project a visually depiction of the earthquake data using various Chart.Js",
+      projectDesc: "Developed a full-stack web application using Flask to serve a REST API that captures data from over 5,000 earthquakes, with visualizations rendered using ChartJs.",
 
     },
     {
       image: require("./assets/images/meta.png"),
       projectName: "Antiviruses",
-      projectDesc: "Metasploit based project of generating 2500 .sh pay loads to check the efficiency of 3 Antivirus McAfee, Windows Defender and Calm Av. Automated API to run the virus check and plot the graph of reference between the viruses using Matplotlib.",
+      projectDesc: "Conducted a Metasploit-based project, generating 2,500 .sh payloads to evaluate the efficacy of various antivirus programs. Developed an automated API to execute virus checks and used Matplotlib to visualize the comparative effectiveness of the antivirus solutions.",
 
     }
   ],
@@ -210,7 +209,7 @@ const achievementSection = {
     {
       title: "Chief Financial Officer",
       subtitle:
-        "First Indian to be appointed as CFO for the Cyber Security Club at University of Texas at Arlington",
+        "First Indian Origin to be appointed as CFO for the Cyber Security Club at University of Texas at Arlington",
       image: require("./assets/images/codeInLogo.webp"),
 
     },
